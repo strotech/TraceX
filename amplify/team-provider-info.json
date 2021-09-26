@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-tracex-dev-171609-authRole",
+      "UnauthRoleArn": "arn:aws:iam::465392140585:role/amplify-tracex-dev-171609-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::465392140585:role/amplify-tracex-dev-171609-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-tracex-dev-171609-deployment",
+      "UnauthRoleName": "amplify-tracex-dev-171609-unauthRole",
+      "StackName": "amplify-tracex-dev-171609",
+      "StackId": "arn:aws:cloudformation:us-east-1:465392140585:stack/amplify-tracex-dev-171609/5642fbe0-1ebf-11ec-b1f3-124fe3f33699",
+      "AmplifyAppId": "d2xvhgj90skkb2"
+    }
+  }
+}
