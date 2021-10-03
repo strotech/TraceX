@@ -9,7 +9,7 @@ packages:
     source: hosted
     version: "0.2.4"
   amplify_api:
-    dependency: "direct main"
+    dependency: "direct dev"
     description:
       name: amplify_api
       url: "https://pub.dartlang.org"
@@ -23,7 +23,7 @@ packages:
     source: hosted
     version: "0.2.4"
   amplify_auth_cognito:
-    dependency: "direct main"
+    dependency: "direct dev"
     description:
       name: amplify_auth_cognito
       url: "https://pub.dartlang.org"
@@ -44,7 +44,7 @@ packages:
     source: hosted
     version: "0.2.4"
   amplify_datastore:
-    dependency: "direct main"
+    dependency: "direct dev"
     description:
       name: amplify_datastore
       url: "https://pub.dartlang.org"
@@ -58,7 +58,7 @@ packages:
     source: hosted
     version: "0.2.4"
   amplify_flutter:
-    dependency: "direct main"
+    dependency: "direct dev"
     description:
       name: amplify_flutter
       url: "https://pub.dartlang.org"
@@ -146,25 +146,11 @@ packages:
     description: flutter
     source: sdk
     version: "0.0.0"
-  flutter_lints:
-    dependency: "direct dev"
-    description:
-      name: flutter_lints
-      url: "https://pub.dartlang.org"
-    source: hosted
-    version: "1.0.4"
   flutter_test:
     dependency: "direct dev"
     description: flutter
     source: sdk
     version: "0.0.0"
-  lints:
-    dependency: transitive
-    description:
-      name: lints
-      url: "https://pub.dartlang.org"
-    source: hosted
-    version: "1.0.1"
   matcher:
     dependency: transitive
     description:
